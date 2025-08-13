@@ -3,11 +3,11 @@ A modern real-time collaborative workspace combining the performance of Go with 
 
 Backend -> Go 1.21+
 Gorilla WebSocket
-Chi Router (or your chosen router)
+Chi Router
 JSON for message protocol
 
 Frontend -> React 18
 TypeScript
 HTML5 Canvas / SVG
 WebSocket API
-Tailwind CSS (or your styling choice)
+Tailwind CSS
